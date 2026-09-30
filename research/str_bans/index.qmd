@@ -1,0 +1,43 @@
+---
+title: "Short-Term Rental Bans and the Hotel Industry: Evidence from New York City"
+author:
+  - Sebastian C. Anastasi
+  - Alexander Marsella
+  - Vitor Melo
+  - E. Frank Stephenson
+  - Gary A. Wagner
+date: 2025-09-01
+subtitle: "European Journal of Political Economy, 2025"
+description: "New York City's de facto ban on short-term rentals raised hotel room rates by $14 to $19 a night and added roughly $2.1 to $2.9 billion in hotel revenue over its first eighteen months."
+---
+
+[Journal version](https://doi.org/10.1016/j.ejpoleco.2025.102725){.btn .btn-outline-primary .btn-sm}
+[Ungated PDF](str_bans.pdf){.btn .btn-outline-primary .btn-sm}
+
+## Plain English Summary
+
+In September 2023, New York City began enforcing Local Law 18, which required short-term rental hosts to register with the city and barred platforms like Airbnb from processing bookings for anyone who had not. Within days, short-term listings fell from about 22,000 to 6,841, and Airbnb called the rules a de facto ban. Officials justified the law on grounds of safety and affordable housing. We ask a different question: who gained? Economic theory predicts that small, well-organized industries are better at winning regulations that hobble their competitors, and New York's roughly 1,339 hotels are a far more compact group than its tens of thousands of Airbnb hosts. The hotel industry gave almost $600,000 in city political contributions from 2008 through 2023, compared with just over $18,000 from Airbnb and other home-sharing networks, and its main trade group lists the law among its lobbying successes.
+
+To measure the payoff, we compare New York's hotel market with a weighted blend of the other 24 largest U.S. hotel markets, chosen so that the blend tracked New York closely before the ban. Any gap that opens up afterward reflects the ban rather than national travel trends.
+
+**What we found:**
+
+- **Room rates rose.** The ban raised the average nightly hotel rate by about $14 to $19, depending on the comparison group, roughly a 5.6% increase on a pre-ban average of about $250.
+- **Hotel revenue jumped.** Monthly hotel revenue rose by about $119 to $129 million, roughly 12%, adding up to $2.1 to $2.9 billion over the first eighteen months.
+- **Hotels did not fill many more rooms.** The number of rooms rented rose by only about 1%, a change too small to distinguish from zero. With occupancy already near 76%, hotels captured the added demand through higher prices.
+
+The takeaway is that short-term rental bans can deliver large windfalls to incumbent hotels while visitors pay more for the same rooms. With dozens of cities reportedly asking how to copy New York's approach, policymakers should weigh who actually benefits alongside the law's stated goals.
+
+## Citation
+
+```bibtex
+@article{anastasi2025short,
+  title   = {Short-Term Rental Bans and the Hotel Industry: Evidence from {New York City}},
+  author  = {Anastasi, Sebastian C. and Marsella, Alexander and Melo, Vitor and Stephenson, E. Frank and Wagner, Gary A.},
+  journal = {European Journal of Political Economy},
+  volume  = {89},
+  pages   = {102725},
+  year    = {2025},
+  doi     = {10.1016/j.ejpoleco.2025.102725}
+}
+```

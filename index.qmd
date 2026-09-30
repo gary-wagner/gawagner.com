@@ -1,0 +1,42 @@
+---
+pagetitle: "Gary A. Wagner"
+---
+
+:::: {.columns}
+
+::: {.column width="22%"}
+![](photo.jpg)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="73%"}
+[Gary A. Wagner]{.name}
+
+[Acadiana Business Economist/BORSF Eminent Scholar Endowed Chair\
+University of Louisiana at Lafayette]{.role}
+
+I am an applied economist working on regional economics and state and local public finance, with a focus on economic development, entrepreneurship, and political economy. Before joining UL Lafayette, I was Vice President and Senior Regional Officer at the Federal Reserve Bank of Cleveland.
+
+::: {.facts}
+::: {}
+[Contact]{.label}
+[Email](mailto:gary.wagner@louisiana.edu)\
+[LinkedIn](https://www.linkedin.com/in/gary-a-wagner-451265a/){target="_blank"}\
+[X](https://twitter.com/_WagnerG_){target="_blank"}
+:::
+::: {}
+[Forecasting Panels]{.label}
+[Philadelphia Fed SPF](https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters){target="_blank"}\
+[Fannie Mae HPES](https://www.fanniemae.com/data-and-insights/surveys){target="_blank"}
+:::
+::: {}
+[Editor-in-Chief]{.label}
+[*Public Finance Review*](https://journals.sagepub.com/home/pfr){target="_blank"}
+:::
+
+:::
+:::
+
+::::

@@ -1,0 +1,42 @@
+---
+title: "Baumol's migrants: Productive and unproductive entrepreneurship and between-MSA migration"
+author:
+  - Justin T. Callais
+  - Vincent Geloso
+  - Alicia Plemmons
+  - Gary A. Wagner
+date: 2025-12-01
+subtitle: "European Journal of Political Economy, 2025"
+description: "Americans move toward metro areas where entrepreneurs innovate and away from those where entrepreneurs chase political favors."
+---
+
+[Journal version](https://doi.org/10.1016/j.ejpoleco.2025.102733){.btn .btn-outline-primary .btn-sm}
+[Ungated PDF](baumol.pdf){.btn .btn-outline-primary .btn-sm}
+
+## Plain English Summary
+
+The economist William Baumol argued that entrepreneurs come in two kinds. Productive entrepreneurs create new products and better methods whose benefits spill over to others. Unproductive entrepreneurs lobby for special privileges or work around regulations, creating little new wealth. We ask whether people "vote with their feet" on this difference: do Americans move toward places with more productive entrepreneurship and away from places with more unproductive entrepreneurship?
+
+We measure both kinds of entrepreneurship for U.S. metro areas each year. The productive side tracks venture capital, patents, and new business starts; the unproductive side tracks lobbying activity and the quality of the state legal system. We pair these with survey data on who moved between every pair of 380 metro areas from 2005 to 2019, which also tells us movers' age, education, and whether they are self-employed. Because people moving into a city can themselves change its business climate, we rely on shifts in entrepreneurship driven by outside events, such as how post-2008 banking regulation hit local banks of different sizes and changes in state campaign-finance disclosure laws.
+
+**What we found:**
+
+- **Productive entrepreneurship pulls people in.** A metro area scoring one point higher on productive entrepreneurship than every other metro would gain about 219 net new residents per year, based on a typical metro of 700,000 people.
+- **Unproductive entrepreneurship pushes people out.** A one-point rise in unproductive entrepreneurship relative to all other metros would mean a net outflow of about 55 people per year. The push is clearest for older adults (55 and up), college graduates, and workers who are not self-employed; people under 25 do not respond.
+- **Entrepreneurship matters more than broad policy indexes.** Every group we studied is drawn to productive areas, though the self-employed respond much less. By contrast, a one standard deviation increase in state economic freedom adds only about 3.4 migrants to a typical metro, far below the 22 per year from each other metro implied by earlier work.
+
+The takeaway for local leaders is that attracting and keeping residents depends on the kind of entrepreneurship a place rewards. Policies that make it easier to start businesses, support venture capital, and protect patents can draw newcomers, while campaign-finance transparency that curbs rent-seeking may help retain older and non-self-employed residents.
+
+## Citation
+
+```bibtex
+@article{callais2025baumols,
+  title   = {{Baumol's} Migrants: Productive and Unproductive Entrepreneurship and Between-{MSA} Migration},
+  author  = {Callais, Justin T. and Geloso, Vincent and Plemmons, Alicia and Wagner, Gary A.},
+  journal = {European Journal of Political Economy},
+  volume  = {90},
+  pages   = {102733},
+  year    = {2025},
+  doi     = {10.1016/j.ejpoleco.2025.102733}
+}
+```

@@ -1,0 +1,41 @@
+---
+title: "Patent Intensity and Concentration: The Effect of Institutional Quality on MSA Patent Activity"
+author:
+  - Gary A. Wagner
+  - Jamie Bologna Pavlik
+date: 2020-08-01
+subtitle: "Papers in Regional Science, 2020"
+description: "Metro areas with more economic freedom do not necessarily patent more, but their innovation is spread across many more inventors and technologies."
+---
+
+[Journal version](https://doi.org/10.1111/pirs.12515){.btn .btn-outline-primary .btn-sm}
+[Ungated PDF](msa_innovation.pdf){.btn .btn-outline-primary .btn-sm}
+
+## Plain English Summary
+
+Innovation in the United States is overwhelmingly a city phenomenon: nearly 95% of patents awarded to U.S. residents go to people living in metro areas. State and local governments spend heavily on targeted programs such as enterprise zones and R&D tax credits to attract it, but those programs tend to help only in the short run and only the firms that qualify. We ask whether a broader approach works better. Do metro areas with lighter government spending, lower taxes, and freer labor markets, what economists call "economic freedom," produce more innovation, or a different kind of innovation?
+
+We combine a metro-level economic freedom index with detailed patent records for 272 metro areas from 1992 to 2007. We look not only at how many patents each area produces but at how concentrated they are: whether a few firms or technologies dominate, or whether invention is spread widely. Because more innovative places might adopt different policies, rather than the other way around, we rely on each area's economic freedom decades earlier and on local political patterns to isolate the direction of cause and effect.
+
+**What we found:**
+
+- **Smaller government, modestly more patents.** A one standard deviation improvement in the government spending score raises patenting by individual inventors by about 1.2 patents per 100,000 residents. Effects on the overall patent rate are small.
+- **Freer labor markets spread innovation widely.** A one standard deviation increase in labor market freedom reduces the concentration of patent ownership by enough to explain about 52% of a typical difference across metro areas, for both firms and individual inventors.
+- **More variety in what gets invented.** Economic freedom also sharply reduces concentration across technology types, so free metro areas produce a wider range of products.
+
+The policy takeaway is that the rules of the game matter more for *who* innovates and *what* gets invented than for the raw number of patents. Because these effects are long-run and apply to everyone, not just firms that qualify for a program, broad-based economic freedom offers a durable alternative to traditional place-based incentives.
+
+## Citation
+
+```bibtex
+@article{wagner2020patent,
+  title   = {Patent Intensity and Concentration: The Effect of Institutional Quality on {MSA} Patent Activity},
+  author  = {Wagner, Gary A. and Pavlik, Jamie Bologna},
+  journal = {Papers in Regional Science},
+  volume  = {99},
+  number  = {4},
+  pages   = {857--898},
+  year    = {2020},
+  doi     = {10.1111/pirs.12515}
+}
+```

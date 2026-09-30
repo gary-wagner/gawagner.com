@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - wagner_cv.pdf
+    - CNAME
+
+website:
+  title: "Gary A. Wagner"
+  site-url: https://www.gawagner.com
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: Bio
+      - href: research.qmd
+        text: Research
+      - href: wagner_cv.pdf
+        text: CV
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    grid:
+      body-width: 1100px
+      sidebar-width: 0px
+      margin-width: 0px

@@ -1,0 +1,40 @@
+---
+title: "Campaigning for Retirement: State Teacher Union Campaign Contributions and Pension Generosity"
+author:
+  - Gary A. Wagner
+  - Erick M. Elder
+date: 2021-06-01
+subtitle: "European Journal of Political Economy, 2021"
+description: "Teachers' unions that give more to state political campaigns win richer pensions and shift more of the cost to taxpayers, a return of nearly 1,500% on their contributions."
+---
+
+[Journal version](https://doi.org/10.1016/j.ejpoleco.2020.101991){.btn .btn-outline-primary .btn-sm}
+[Ungated PDF](ejpe.pdf){.btn .btn-outline-primary .btn-sm}
+
+## Plain English Summary
+
+Interest groups spend billions of dollars trying to influence elections: more than $3.7 billion flowed to state-level candidates, parties, and committees in 2016 alone. Economists have long asked whether that money is spent out of conviction or as an investment that pays off in favorable policy. We ask the question for one of the most active players in state politics: teachers' unions. Pensions are a natural place to look. They are set by state legislatures rather than local bargaining, they are expensive, with states and municipalities contributing more than $140 billion to pension plans in 2016, and they are easy to measure consistently across states.
+
+We used a detailed record of every campaign contribution made in every state to track teachers' union giving in the 30 states with teacher-only pension plans from 2001 to 2016. Unions whose pensions are stingy might give more to fix that, which would muddy a simple comparison. To get around this, we looked at surges in union giving triggered by an outside event: large infusions of Republican money from out of state, which mostly arrive in high-stakes open-seat races and which Democratic-leaning unions respond to.
+
+**What we found:**
+
+- **More giving buys more generous pensions.** A one-cent increase in union contributions per state resident, about $75,000 in the average state, raises the value of pension benefits earned each year by about $8 per teacher.
+- **Taxpayers pick up more of the tab.** The same increase raises the share of those benefits paid by the state by 0.07 percentage points, above the average employer share of about 44%.
+- **The return is enormous.** Combined, the two effects mean $75,000 in contributions produces about $1.1 million more in employer-paid benefits across the average plan's 138,000 active members, a return of nearly 1,500%.
+
+The takeaway is that political activity by public-sector unions is not just civic participation: it pays. Because pension promises are hard to reverse once made, this influence can leave lasting costs for state and local budgets.
+
+## Citation
+
+```bibtex
+@article{wagner2021campaigning,
+  title   = {Campaigning for Retirement: State Teacher Union Campaign Contributions and Pension Generosity},
+  author  = {Wagner, Gary A. and Elder, Erick M.},
+  journal = {European Journal of Political Economy},
+  volume  = {68},
+  pages   = {101991},
+  year    = {2021},
+  doi     = {10.1016/j.ejpoleco.2020.101991}
+}
+```

@@ -1,0 +1,42 @@
+---
+title: "Institutions Matter: Economic freedom and income mobility"
+author:
+  - Justin T. Callais
+  - Vincent J. Geloso
+  - Alicia M. Plemmons
+  - Gary A. Wagner
+date: 2025-12-01
+subtitle: "Economic Modelling, 2025"
+description: "Children who grow up in U.S. metro areas with more economic freedom are more likely to climb the income ladder, with 5 to 12% more upward mobility than children in the least-free areas."
+---
+
+[Journal version](https://doi.org/10.1016/j.econmod.2025.107351){.btn .btn-outline-primary .btn-sm}
+[Ungated PDF](econ_freedom.pdf){.btn .btn-outline-primary .btn-sm}
+
+## Plain English Summary
+
+Whether children can do better than their parents is central to debates over inequality and opportunity. Much of the recent research on this question, led by Raj Chetty and his coauthors, points to social capital: children from poorer families do better when they grow up in places where they have friends from higher-income families. That work says little about the rules of the local economy itself. We ask whether economic freedom, meaning lower government spending and taxes and less restrictive labor markets, also helps children move up.
+
+We combine Chetty and coauthors' measures of how far children born between 1978 and 1983 to parents at the 25th percentile of the income distribution rose as adults with a long-running index of economic freedom for U.S. metro areas. Because a child's prospects are shaped over many years, we average each area's economic freedom from 1977 to 2017 to capture lifetime exposure. We then compare 261 medium and large metro areas, holding constant education, teen births, health insurance, inequality, age, and state, and we test whether economic freedom matters once social capital is taken into account.
+
+**What we found:**
+
+- **More freedom, more mobility.** Moving from the least-free quarter of metro areas to the most-free quarter is associated with 11.6% higher absolute mobility and 4.6% higher relative mobility.
+- **The effect holds alongside social capital.** Accounting for cross-class friendships, the top-quarter advantage is still 9.5% and 4.5%. A one standard deviation rise in economic freedom goes with absolute mobility 41% of a standard deviation higher, compared with 65% for cross-class friendships, and the two work independently.
+- **Gains are shared across races.** Economic freedom is not associated with the gap in upward mobility between White and Black children, suggesting the benefits reach both groups.
+
+The takeaway for policymakers is that social capital is not the only path to opportunity. Market-oriented reforms that lower barriers to competition, entry, and investment offer a practical lever for improving income mobility, and because the index leaves out regulations such as occupational licensing and housing rules, our estimates likely understate the payoff.
+
+## Citation
+
+```bibtex
+@article{callais2025institutions,
+  title   = {Institutions Matter: Economic Freedom and Income Mobility},
+  author  = {Callais, Justin T. and Geloso, Vincent J. and Plemmons, Alicia M. and Wagner, Gary A.},
+  journal = {Economic Modelling},
+  volume  = {153},
+  pages   = {107351},
+  year    = {2025},
+  doi     = {10.1016/j.econmod.2025.107351}
+}
+```

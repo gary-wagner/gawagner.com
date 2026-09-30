@@ -1,0 +1,40 @@
+---
+title: "The Distributional Effects of Job Loss from Fiscal Consolidation: Evidence from the Budget Control Act of 2011"
+author:
+  - Timothy M. Komarek
+  - Gary A. Wagner
+date: 2020-11-01
+subtitle: "Economics Letters, 2020"
+description: "The 2011 federal spending caps cost far fewer jobs than predicted, and the losses fell mostly on men and college-educated workers rather than the less-educated workers who usually bear the brunt of downturns."
+---
+
+[Journal version](https://doi.org/10.1016/j.econlet.2020.109515){.btn .btn-outline-primary .btn-sm}
+[Ungated PDF](distributional_effects.pdf){.btn .btn-outline-primary .btn-sm}
+
+## Plain English Summary
+
+The Budget Control Act of 2011 was the largest cut in discretionary federal spending in nearly three decades, and some policy experts warned it would cost more than two million jobs. Most research on government spending looks at what happens when spending rises, usually during a recession. We ask what happens when it falls during an economic expansion, and who ends up losing work.
+
+The law capped defense and non-defense spending separately, and the Defense Department ended up cutting its purchases from private firms by more than 16%, while non-defense agencies cut theirs by about 3%. Because local economies differ in how much they sell to each type of agency, some places were hit much harder than others for reasons that had nothing to do with their local economic conditions. We tracked every federal contract across 722 commuting zones in the lower 48 states from 2011 to 2015 and linked the spending changes to local employment by gender and education.
+
+**What we found:**
+
+- **Job losses were far smaller than feared.** The spending caps reduced national employment by between 108,000 and 218,000 jobs, well below the projections of more than two million.
+- **Each lost job took a lot of spending.** It took between $237,000 and $478,000 in reduced federal purchases to eliminate one local job, well above the $125,000 or less typical of studies of spending increases.
+- **The losses fell on different workers than usual.** Men accounted for roughly 60% of the jobs lost, and so did workers with at least some college education. Recent recessions, by contrast, have hit workers with less formal education hardest.
+
+The broader lesson is that cuts to government purchasing do not play out like an ordinary economic downturn. When the economy is strong enough to absorb the shock, the damage is modest, and who bears it depends on what the government stops buying.
+
+## Citation
+
+```bibtex
+@article{komarek2020distributional,
+  title   = {The Distributional Effects of Job Loss from Fiscal Consolidation: Evidence from the {Budget Control Act} of 2011},
+  author  = {Komarek, Timothy M. and Wagner, Gary A.},
+  journal = {Economics Letters},
+  volume  = {196},
+  pages   = {109515},
+  year    = {2020},
+  doi     = {10.1016/j.econlet.2020.109515}
+}
+```

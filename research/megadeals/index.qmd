@@ -1,0 +1,42 @@
+---
+title: "The Political Economy of State Economic Development Incentives: A Case of Rent Extraction"
+author:
+  - Russell S. Sobel
+  - Gary A. Wagner
+  - Peter T. Calcagno
+date: 2024-03-01
+subtitle: "Economics & Politics, 2024"
+description: "Once a state starts handing out 'megadeal' business incentives, campaign money flows in and incumbent legislators win by wider margins, which helps explain why these ineffective programs persist."
+---
+
+[Journal version](https://doi.org/10.1111/ecpo.12233){.btn .btn-outline-primary .btn-sm}
+[Ungated PDF](megadeals.pdf){.btn .btn-outline-primary .btn-sm}
+
+## Plain English Summary
+
+State and local governments spend more than $30 billion a year on tax breaks, infrastructure deals, loans, and other incentives to persuade companies to locate, expand, or stay put. Decades of research find these deals do little for jobs or growth, and even favorable studies put the cost at well over $100,000 per job created. So why are they so popular, and why have they grown so large? We suspect the answer lies in who benefits politically. Firms that win incentives, their workers and unions, and firms hoping to win the next deal are all potential sources of campaign money and votes for the politicians who hand the deals out.
+
+We used a database of more than 230,000 state incentive awards to pinpoint when each state first gave a single company a deal thousands of times larger than its usual award. By this measure, about a third of states (17) made that leap. We then compared political fundraising and election results in those states before and after their first "megadeal" with states that never made one.
+
+**What we found:**
+
+- **Construction and labor money jumps.** Annual campaign contributions from construction and labor unions rose by about 38% ($738,100) in the average state once large incentives began.
+- **Lobbyists and business groups give more too.** Contributions from lobbyists and lawyers who represent large firms rose about 21% ($158,600), and giving by business advocacy and trade groups more than doubled, up 107% ($122,000).
+- **Incumbents win bigger.** The typical incumbent legislator's margin of victory grew by 7 percentage points.
+
+The takeaway is that economic development incentives survive not because they work but because they reward the politicians who award them. Ending wasteful megadeals may depend less on producing more evidence that they fail and more on finding ways to break the political benefits that sustain them.
+
+## Citation
+
+```bibtex
+@article{sobel2024political,
+  title   = {The Political Economy of State Economic Development Incentives: A Case of Rent Extraction},
+  author  = {Sobel, Russell S. and Wagner, Gary A. and Calcagno, Peter T.},
+  journal = {Economics \& Politics},
+  volume  = {36},
+  number  = {1},
+  pages   = {104--151},
+  year    = {2024},
+  doi     = {10.1111/ecpo.12233}
+}
+```

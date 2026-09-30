@@ -1,0 +1,39 @@
+---
+title: "Net Productive Entrepreneurship: State and MSA-Level Indices, 2002–2019"
+author:
+  - Justin T. Callais
+  - Peter T. Calcagno
+  - Gary A. Wagner
+date: 2026-01-01
+subtitle: "Applied Economics Letters, 2026"
+description: "New yearly measures of productive and unproductive entrepreneurship for every state and 381 metro areas show that net productive entrepreneurship has declined since 2002, mostly in large metros."
+---
+
+[Journal version](https://doi.org/10.1080/13504851.2026.2619632){.btn .btn-outline-primary .btn-sm}
+[Ungated PDF](npe_index.pdf){.btn .btn-outline-primary .btn-sm}
+
+## Plain English Summary
+
+William Baumol famously argued that every society has plenty of entrepreneurs; what differs is where their talent goes. Good rules steer ambitious people toward building new products and firms, while bad rules reward them for chasing favors from government through lobbying and lawsuits. Russell Sobel's 2008 index, cited more than 1,100 times, was the first to measure this split across U.S. states, but only for a single year. We turn that snapshot into a yearly panel for all 50 states and 381 metro areas from 2002 to 2019.
+
+The idea is simple. We score each place on signs of productive entrepreneurship, such as venture capital, patents and patent applications, new business openings, and growth in sole proprietors. We then score it on signs of unproductive entrepreneurship: how many lobbying firms it has, how much of its workforce is in lobbying, and how business leaders rate its legal system. The difference between the two is a place's net productive entrepreneurship. We have made the indices freely available so other researchers can use them.
+
+**What we found:**
+
+- **Rankings move a lot over time.** Nearly half of the top and bottom 10 metros in 2002 had left those lists by 2019. Utica-Rome, NY climbed from last place (381st) to 35th, and Hartford's score that ranked 10th in 2019 would only have ranked 51st in 2002.
+- **Places within the same state differ sharply.** California, Michigan, and Pennsylvania each have at least one metro area in every quarter of the national distribution, while Delaware ranked first and California last among states in every year we report.
+- **Productive entrepreneurship tracks prosperity.** A one-point rise in a metro's net productive score is associated with about $686 more in real income per person, and a one-point rise in the productive score alone with about $1,243.
+
+The broader lesson is that entrepreneurial climates are local and change over time. Measures that treat a whole state as one place, or look at a single year, miss much of what is going on. Our indices give researchers a tool for studying why some places channel talent into creating wealth while others channel it into capturing it.
+
+## Citation
+
+```bibtex
+@article{callais2026net,
+  title   = {Net Productive Entrepreneurship: State and {MSA}-Level Indices, 2002--2019},
+  author  = {Callais, Justin T. and Calcagno, Peter T. and Wagner, Gary A.},
+  journal = {Applied Economics Letters},
+  year    = {2026},
+  doi     = {10.1080/13504851.2026.2619632}
+}
+```

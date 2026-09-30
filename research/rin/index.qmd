@@ -1,0 +1,42 @@
+---
+title: "Regional Innovation Networks & High-Growth Entrepreneurship"
+author:
+  - Michael E. Araki
+  - Daniel L. Bennett
+  - Gary A. Wagner
+date: 2024-01-01
+subtitle: "Research Policy, 2024"
+description: "Metro areas where inventors collaborate more closely produce more fast-growing young companies, especially where entrepreneurship is already common."
+---
+
+[Journal version](https://doi.org/10.1016/j.respol.2023.104900){.btn .btn-outline-primary .btn-sm}
+[Ungated PDF](rin.pdf){.btn .btn-outline-primary .btn-sm}
+
+## Plain English Summary
+
+Fast-growing young firms, often called "gazelles," create a large share of new jobs and drive regional growth. But they are not spread evenly across the country. A long line of research argues that entrepreneurs turn new ideas into businesses, which means places that generate lots of new knowledge should produce more of them. We focus on a missing piece: new knowledge only helps if it travels. We ask whether regions where inventors are closely connected to one another, sharing ideas directly or through colleagues of colleagues, produce more high-growth firms.
+
+Using patent records, we map who co-invents with whom in 358 metro areas from 2003 to 2014 and build a score for how tightly each region's inventors are linked. Collaboration is the norm: about 61% of patents in our data had more than one inventor. We then count the companies each metro area places on the Inc. 5000 list of the fastest-growing private firms, relative to its total number of businesses. We follow the same metro areas over time and check the results against historical versions of each network, so the findings are not driven by fixed differences between places.
+
+**What we found:**
+
+- **Stronger networks, more gazelles.** A one-unit increase in a region's network score is associated with about 0.31 additional high-growth firms per 10,000 establishments, and the estimate holds (0.33 to 0.38) under alternative methods.
+- **Entrepreneurial culture matters too.** A region with a one percentage point higher rate of self-employment has about 3.25 more high-growth firms per 10,000 establishments, and our estimates suggest networks pay off mainly where that rate exceeds roughly 17.5%.
+- **Fresh connections matter most.** The effect is largest for current collaborations and fades as we include older ones, falling to about 0.09 with a three-year window.
+
+For policymakers, the lesson is that producing new knowledge is not enough. Top-down innovation grants did not strengthen the link between networks and high-growth firms. What helps is a place where inventors talk to each other and where plenty of people are willing to start businesses around their ideas.
+
+## Citation
+
+```bibtex
+@article{araki2024regional,
+  title   = {Regional Innovation Networks \& High-Growth Entrepreneurship},
+  author  = {Araki, Michael E. and Bennett, Daniel L. and Wagner, Gary A.},
+  journal = {Research Policy},
+  volume  = {53},
+  number  = {1},
+  pages   = {104900},
+  year    = {2024},
+  doi     = {10.1016/j.respol.2023.104900}
+}
+```

@@ -1,0 +1,42 @@
+---
+title: "Labor Market Reform as an External Enabler of High-Growth Entrepreneurship: A Multi-Level Institutional Contingency Perspective"
+author:
+  - Daniel L. Bennett
+  - Gary A. Wagner
+  - Michael Araki
+date: 2024-11-01
+subtitle: "Journal of Business Venturing, 2024"
+description: "When states made noncompete agreements harder to enforce, fast-growing businesses became 27 to 32% more common in their cities, unless heavy federal regulation in the industry cancelled out the gain."
+---
+
+[Journal version](https://doi.org/10.1016/j.jbusvent.2024.106428){.btn .btn-outline-primary .btn-sm}
+[Ungated PDF](jbv.pdf){.btn .btn-outline-primary .btn-sm}
+
+## Plain English Summary
+
+Noncompete agreements are clauses in employment contracts that stop workers from joining a rival or starting a competing business after they leave. They are common: about 18% of U.S. workers are currently bound by one, and they are especially widespread among skilled, experienced employees. Earlier research shows noncompetes discourage people from starting businesses. We ask a different question: do they also hold back the small number of young firms that grow very fast, the ones that create a large share of new jobs?
+
+Between 2004 and 2017, four states (Oregon, Montana, South Carolina, and New Hampshire) made noncompetes harder to enforce in court. We compare the number of fast-growing businesses in 270 metro areas before and after these changes, against metro areas in states whose rules stayed the same. We also ask whether the benefit depends on other rules at the same time, namely how much federal regulation an industry faces and how market-friendly local policy is.
+
+**What we found:**
+
+- **Weaker noncompetes mean more fast-growing firms.** After a state weakened enforcement, the rate of high-growth businesses in its metro areas rose by 27 to 32% relative to the typical treated city, and the rate of Inc. 5000 companies rose by 13 to 16%.
+- **Heavy federal regulation eats into the gain.** In an industry with one standard deviation more federal regulation than average, the boost shrank by about 2.1 to 2.4 points from a baseline of roughly 9 to 10. At around 180,000 federal requirements, the gain disappears entirely.
+- **Local policy can push back.** In that same more-regulated industry, a one standard deviation improvement in a metro area's economic freedom score turns that loss into a gain of about 2.8 points.
+
+The takeaway is that loosening noncompetes can help young firms scale up, but no single reform works in isolation. Whether it pays off depends on the regulations businesses face from Washington and on the policy climate in their own city.
+
+## Citation
+
+```bibtex
+@article{bennett2024labor,
+  title   = {Labor Market Reform as an External Enabler of High-Growth Entrepreneurship: A Multi-Level Institutional Contingency Perspective},
+  author  = {Bennett, Daniel L. and Wagner, Gary A. and Araki, Michael},
+  journal = {Journal of Business Venturing},
+  volume  = {39},
+  number  = {6},
+  pages   = {106428},
+  year    = {2024},
+  doi     = {10.1016/j.jbusvent.2024.106428}
+}
+```

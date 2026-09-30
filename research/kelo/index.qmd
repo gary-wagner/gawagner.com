@@ -1,0 +1,41 @@
+---
+title: "Evaluation of Kelo's Political and Economic Impact: Theory and Evidence"
+author:
+  - Ronit Levine-Schnur
+  - Gary A. Wagner
+date: 2025-10-01
+subtitle: "Yale Journal on Regulation, 2025"
+description: "After the Supreme Court's Kelo decision, New York City cut its economic-development takings by about 90% without any new law forcing it to, and the takings it did carry out produced no measurable gains in local jobs or businesses."
+---
+
+[Journal version](https://www.yalejreg.com/print/evaluation-of-kelos-political-and-economic-impact-theory-and-evidence/){.btn .btn-outline-primary .btn-sm}
+[Ungated PDF](kelo.pdf){.btn .btn-outline-primary .btn-sm}
+
+## Plain English Summary
+
+In *Kelo v. City of New London* (2005), the Supreme Court ruled that a city may take private homes and hand the land to private developers if the project promises to boost the local economy. The decision set off a national backlash. Critics warned that cities would go on a taking spree, and nearly every state passed new limits. Supporters argued the projects would revitalize struggling neighborhoods. Twenty years later, we ask whether either side was right: do cities need a law to rein them in, and do these projects actually deliver the economic benefits used to justify them?
+
+New York City is a natural test. New York State never changed its eminent domain laws after *Kelo*, so the city kept its full power to take property for economic development. We use a dataset of every taking in New York City over 29 years, from 1991 to 2019, which records the purpose of each project. We track how often the city used its power before and after the decision, and we compare jobs and businesses on and around the taken land with similar nearby parcels where no takings occurred.
+
+**What we found:**
+
+- **Public opinion did what the law did not.** Between 80 and 90% of survey respondents disagreed with *Kelo*, and all but five states changed their laws. New York was not one of them, yet the likelihood of a taking for economic development in the city fell by about 90% after the ruling.
+- **The city kept using eminent domain, just differently.** The overall pace held steady at roughly six to seven projects a year before and after *Kelo*. The city shifted toward traditional public uses such as roads and schools.
+- **The promised economic gains never showed up.** Looking at parcels up to 800 meters from project sites, we find no statistically detectable increase in employment or in the number of businesses.
+
+The takeaway is that local governments appear to understand politics better than economics. Rather than overturning *Kelo*, we argue courts should act as a forum for public debate and require evidence-based reviews of projected economic benefits, much like environmental impact assessments, before a city can take property.
+
+## Citation
+
+```bibtex
+@article{levineschnur2025evaluation,
+  title   = {Evaluation of {Kelo's} Political and Economic Impact: Theory and Evidence},
+  author  = {Levine-Schnur, Ronit and Wagner, Gary A.},
+  journal = {Yale Journal on Regulation},
+  volume  = {43},
+  number  = {1},
+  pages   = {219--238},
+  year    = {2025},
+  url     = {https://www.yalejreg.com/print/evaluation-of-kelos-political-and-economic-impact-theory-and-evidence/}
+}
+```

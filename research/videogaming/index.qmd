@@ -1,0 +1,41 @@
+---
+title: "Did Video Gaming Expansion Boost Municipal Revenues in Illinois?"
+author:
+  - Gary A. Wagner
+  - Douglas M. Walker
+date: 2021-10-01
+subtitle: "Southern Economic Journal, 2021"
+description: "Letting video gambling machines into local bars and restaurants did not raise total city revenues in Illinois; it pulled spending away from other local businesses instead."
+---
+
+[Journal version](https://doi.org/10.1002/soej.12537){.btn .btn-outline-primary .btn-sm}
+[Ungated PDF](videogaming.pdf){.btn .btn-outline-primary .btn-sm}
+
+## Plain English Summary
+
+In 2009, Illinois passed the Video Gaming Act, which let each city and village decide whether to allow video gambling terminals in bars, restaurants, truck stops, and similar businesses. The state taxes the money players lose at these machines and sends a slice back to the host town. More than 1,000 municipalities have opted in, and by our count the machines have generated nearly $400 million for local governments. The pitch was simple: a new source of revenue for cash-strapped towns. We ask whether it actually delivered.
+
+The answer depends on where the gambling money comes from. If the machines draw in visitors or new spending, towns come out ahead. If residents simply shift dollars they would have spent at local shops and restaurants, the new gambling tax may be offset by losses elsewhere. To find out, we used state financial records on every municipality and compared how revenues changed in towns that approved the machines against similar towns that never allowed gambling, before and after approval. Because towns signed on in different years, we lined up each town around its own approval date so that early and late adopters are compared fairly.
+
+**What we found:**
+
+- **No gain in total revenue.** We find no evidence that approving the machines raised total municipal revenues, and most individual revenue sources did not change either.
+- **Local sales taxes fell.** Real local sales tax collections dropped by about $8 per resident, a decline of roughly 30%. For a town with a typical local sales tax rate, that implies about $1.5 million a year in spending shifted away from other taxable goods and services.
+- **Heavier gambling, bigger losses.** In the top 5% of towns by gambling revenue, local sales taxes fell by nearly $23 per resident, about 40%. In the top 2%, they fell by about $55 per resident, roughly 50%.
+
+The lesson for policymakers is that a new gambling tax is not the same as new money. In Illinois, video gaming mostly moved spending from one set of local businesses to another, leaving town budgets no better off. States and cities weighing similar expansions should expect the same reshuffling, not a fiscal windfall.
+
+## Citation
+
+```bibtex
+@article{wagner2021video,
+  title   = {Did Video Gaming Expansion Boost Municipal Revenues in {Illinois}?},
+  author  = {Wagner, Gary A. and Walker, Douglas M.},
+  journal = {Southern Economic Journal},
+  volume  = {88},
+  number  = {2},
+  pages   = {649--679},
+  year    = {2021},
+  doi     = {10.1002/soej.12537}
+}
+```

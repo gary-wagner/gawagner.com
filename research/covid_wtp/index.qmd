@@ -1,0 +1,43 @@
+---
+title: "Willingness to Pay for Policies to Reduce Health Risks from COVID-19: Evidence from U.S. Professional Sports"
+author:
+  - Brad R. Humphreys
+  - Gary A. Wagner
+  - John C. Whitehead
+  - Pamela Wicker
+date: 2023-01-01
+subtitle: "Health Economics, 2023"
+description: "Sports fans placed real dollar value on COVID-19 safety rules at games, but they split sharply: most would pay more for mask requirements, while a smaller group of avid fans would pay less."
+---
+
+[Journal version](https://doi.org/10.1002/hec.4618){.btn .btn-outline-primary .btn-sm}
+[Ungated PDF](covid_wtp.pdf){.btn .btn-outline-primary .btn-sm}
+
+## Plain English Summary
+
+COVID-19 turned everyday activities like eating at a restaurant or going to a ballgame into health risks. Businesses, not governments, were often left to decide whether to require masks or limit crowds. Economists have long measured what people will pay for health policies, but no one had measured what customers would pay for rules designed to slow the spread of an airborne virus. We ask how much fans value mask requirements and crowd limits at professional sporting events.
+
+In 2020, before fans had returned to most stadiums, we surveyed 1,381 people in Chicago, Dallas, Los Angeles, Miami, and New York City who expected to attend an NFL, NBA, MLB, NHL, or MLS game once fans were allowed back. Each person was shown a series of hypothetical games with different ticket prices, with or without a mask requirement, and with the venue filled to 10%, 25%, or 50% of capacity, and asked whether they would buy a ticket. Their choices reveal how much each safety rule is worth to them, and they sorted fans into three distinct groups.
+
+**What we found:**
+
+- **Most casual fans want masks.** For the largest group, about half the sample, a ticket to an NBA game at 25% capacity was worth only $32, versus a typical pre-pandemic price of $105. Adding a mask requirement raised that by $38, more than doubling what they would pay.
+- **Avid fans valued thin crowds but disliked masks.** About a quarter of fans would pay $489 to attend an NBA game at 25% capacity, more than 400% above the pre-pandemic average. Across leagues, requiring masks cut what this group would pay by 32%, though they would still attend.
+- **A third group wanted both.** The remaining fans would not attend without a mask requirement, but would pay roughly 450% more if capacity were cut from 25% to 10%.
+
+The takeaway for venues and policymakers is that no single rule pleases everyone. Three-quarters of fans did not see crowd limits alone as enough protection. A policy pairing a mask requirement with capacity around 25% appears to strike the best balance for bringing most fans back.
+
+## Citation
+
+```bibtex
+@article{humphreys2023willingness,
+  title   = {Willingness to Pay for Policies to Reduce Health Risks from {COVID-19}: {Evidence} from {U.S.} Professional Sports},
+  author  = {Humphreys, Brad R. and Wagner, Gary A. and Whitehead, John C. and Wicker, Pamela},
+  journal = {Health Economics},
+  volume  = {32},
+  number  = {1},
+  pages   = {218--231},
+  year    = {2023},
+  doi     = {10.1002/hec.4618}
+}
+```

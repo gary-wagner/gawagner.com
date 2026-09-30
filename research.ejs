@@ -1,0 +1,20 @@
+<style>
+.paper { padding-bottom: 1.5rem; margin-bottom: 1.5rem; border-bottom: 1px solid rgba(0,0,0,0.25); }
+.paper:last-child { border-bottom: none; }
+.paper-title { font-size: 1.3rem; text-decoration: underline; text-underline-offset: 3px; }
+.paper-authors { margin-top: 0.3rem; }
+.paper-journal { font-style: italic; opacity: 0.8; }
+.paper-desc { margin-top: 0.4rem; }
+</style>
+
+<div class="list">
+<% for (const item of items) { %>
+<div class="paper" <%= metadataAttrs(item) %>>
+  <a class="paper-title" href="<%- item.path %>"><%= item.title %></a>
+  <div class="paper-authors"><%= Array.isArray(item.author) ? item.author.join(", ") : item.author %></div>
+  <% const i = item.subtitle.lastIndexOf(","); %>
+  <div class="paper-journal"><b><%- item.subtitle.slice(0, i) %></b><%- item.subtitle.slice(i) %></div>
+  <div class="paper-desc"><%= item.description %></div>
+</div>
+<% } %>
+</div>

@@ -1,0 +1,41 @@
+---
+title: "Cashing in on Culture: Local Employment Effects from Art and Cultural District Designation"
+author:
+  - Gary A. Wagner
+  - Javier E. Portillo
+date: 2024-12-01
+subtitle: "Journal of Cultural Economics, 2024"
+description: "State-designated cultural districts give a modest but lasting boost to jobs at arts and cultural businesses inside their borders, but the gains do not spread to restaurants, shops, or hotels."
+---
+
+[Journal version](https://doi.org/10.1007/s10824-024-09517-x){.btn .btn-outline-primary .btn-sm}
+[Ungated PDF](cultural_jobs.pdf){.btn .btn-outline-primary .btn-sm}
+
+## Plain English Summary
+
+State and local governments spend upwards of $100 billion a year on policies aimed at developing particular places. One newer version is the state-designated cultural district: an area built around local arts and cultural assets whose businesses become eligible for grants or tax credits. Eighteen states have designated more than 375 of these districts, most within the past decade, but almost no one had studied whether they create jobs across many districts at once.
+
+We examine 188 cultural districts in the five states that tie direct financial incentives to district status: Iowa, Louisiana, Maryland, New Mexico, and Texas. Using data that pinpoint the location and employment of individual businesses, we compare how employment changed at businesses inside each district after certification with how it changed at businesses in the same industry just outside the district line. We look at arts and cultural businesses, at restaurants, retailers, and hotels that might benefit from more visitors, and at whether new businesses open.
+
+**What we found:**
+
+- **Cultural businesses added jobs.** After certification, employment at existing arts and cultural businesses inside districts rose by roughly 2.6% to 3.2% relative to similar businesses outside, and the gain persisted for years.
+- **The benefits stayed put.** We find no effect on overall district employment, on restaurants, retail, or hotels, or on the number of new businesses, so existing cultural businesses captured the gains.
+- **Louisiana and Texas drove the results.** Cultural employment rose by about 2.3% in Louisiana and 4% in Texas, which we estimate added 970 and 3,337 jobs and $40.1 million and $172.3 million in annual income, respectively.
+
+For policymakers, the evidence suggests that incentives matter. Direct grants to businesses, used only in Texas, produced the largest job gains, and Texas awarded more than $40 million in such grants between 2012 and 2019, well below our estimate of the annual income gains.
+
+## Citation
+
+```bibtex
+@article{wagner2024cashing,
+  title   = {Cashing in on Culture: Local Employment Effects from Art and Cultural District Designation},
+  author  = {Wagner, Gary A. and Portillo, Javier E.},
+  journal = {Journal of Cultural Economics},
+  volume  = {48},
+  number  = {4},
+  pages   = {645--684},
+  year    = {2024},
+  doi     = {10.1007/s10824-024-09517-x}
+}
+```

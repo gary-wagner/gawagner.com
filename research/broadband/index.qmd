@@ -1,0 +1,41 @@
+---
+title: "Does Broadband Affect Local Economic Outcomes Less than We Thought? Micro Evidence from Louisiana"
+author:
+  - Gary A. Wagner
+  - Hyun Ji Lee
+date: 2024-01-01
+subtitle: "Contemporary Economic Policy, 2024"
+description: "Faster business internet speeds boost local jobs, start-ups, and start-up survival in Louisiana neighborhoods, but the gains are 60 to 65% smaller than earlier studies suggested."
+---
+
+[Journal version](https://doi.org/10.1111/coep.12628){.btn .btn-outline-primary .btn-sm}
+[Ungated PDF](broadband.pdf){.btn .btn-outline-primary .btn-sm}
+
+## Plain English Summary
+
+Since COVID, expanding high-speed internet has become a centerpiece of economic development policy. The 2021 Infrastructure Investment and Jobs Act set aside $65 billion to improve access, the largest public investment in broadband to date. Better internet clearly has many benefits, but the evidence that it creates jobs and new businesses is more mixed. We ask how much faster business internet actually does for a local economy, and we look at a much finer scale than past work: Louisiana's 3,432 census block groups, areas roughly the size of a neighborhood.
+
+The challenge is that internet providers tend to build where the economy is already growing, so faster speeds and job growth could move together without one causing the other. To get around this, we use the fact that some places are simply harder and costlier to wire. Dense tree cover and rugged terrain raise the cost of laying lines, which slowed early broadband rollout in some neighborhoods for reasons that have nothing to do with their economic prospects. We compare how employment, business openings, and the survival of new businesses changed between 2014 and 2019 in places that did and did not get faster speeds for these reasons.
+
+**What we found:**
+
+- **Faster internet does add jobs.** A 10% increase in business download speeds raised neighborhood employment by between 0.31% and 0.68%, and by 0.25% to 0.35% among very small firms and start-ups.
+- **New businesses are more likely to last.** A one standard deviation increase in download speeds raised the share of start-ups still operating after 5 years by 10 percentage points and after 10 years by 4.5 percentage points.
+- **The gains are much smaller than earlier estimates.** Our effects are roughly 60 to 65% smaller than those in widely cited studies. In a county of 25,000 people, the same boost in broadband would produce about 35 new businesses, not the 85 implied by prior work.
+
+The takeaway for policymakers is that broadband can be a real tool for local development, including in small, targeted areas. But the payoff may be well below what earlier research promised, so large public investments deserve careful cost-benefit analysis against other uses of the money.
+
+## Citation
+
+```bibtex
+@article{wagner2024does,
+  title   = {Does Broadband Affect Local Economic Outcomes Less than We Thought? {Micro} Evidence from {Louisiana}},
+  author  = {Wagner, Gary A. and Lee, Hyun Ji},
+  journal = {Contemporary Economic Policy},
+  volume  = {42},
+  number  = {1},
+  pages   = {68--93},
+  year    = {2024},
+  doi     = {10.1111/coep.12628}
+}
+```

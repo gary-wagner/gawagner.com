@@ -1,0 +1,39 @@
+---
+title: "The Political Economy of State Economic Development: A Path to Unproductive Entrepreneurship"
+author:
+  - Russell S. Sobel
+  - Gary A. Wagner
+  - Peter T. Calcagno
+date: 2026-01-01
+subtitle: "Small Business Economics, 2026"
+description: "After a state hands out its first extraordinarily large business incentive, jobs at existing lobbying firms grow by 3.6%, with the biggest gains in the state capital."
+---
+
+[Journal version](https://doi.org/10.1007/s11187-026-01240-5){.btn .btn-outline-primary .btn-sm}
+[Ungated PDF](sbe.pdf){.btn .btn-outline-primary .btn-sm}
+
+## Plain English Summary
+
+States now spend more than $40 billion a year on incentives to lure or keep businesses, and single deals worth billions, like New York's $6.4 billion package for Micron or Wisconsin's $4.8 billion offer to Foxconn, have become common. Officials justify them with promises of jobs and growth, yet research finds little evidence those promises pay off. We ask about a cost that usually goes uncounted: when a state starts writing enormous checks to individual firms, does it pull entrepreneurial talent away from building businesses and toward lobbying for handouts?
+
+To find out, we identify the first time each state awarded an incentive far out of line with its own history, at least 3,500 times its typical award after adjusting for the size of its economy. Seventeen states crossed that line; 33 never did. We then follow more than 40,000 individual lobbying, political consulting, and public relations firms from 1997 to 2019, comparing how employment changed at firms in states that began offering these megadeals with firms in states that did not.
+
+**What we found:**
+
+- **Lobbying firms grow.** After a state's first extraordinarily large incentive, employment at the average lobbying establishment rises 3.6% relative to comparable firms in other states.
+- **The gains land in the capital.** Lobbying firms in the state capital's county add about 4.5% more jobs in the five years after the award, and lobbying's share of all private-sector jobs in the capital county rises by 5.8%. Firms in counties with little lobbying activity see no significant change.
+- **Existing firms capture the gains.** The number of lobbying establishments does not change. The growth comes from firms already in place getting bigger, not from new ones opening.
+
+Most studies find that large incentives fail to create the jobs they promise. We do find job gains, just not the kind anyone advertised. Rather than encouraging productive entrepreneurship, megadeals appear to shift resources toward seeking the next government favor, a cost that belongs in any honest accounting of these programs.
+
+## Citation
+
+```bibtex
+@article{sobel2026political,
+  title   = {The Political Economy of State Economic Development: A Path to Unproductive Entrepreneurship},
+  author  = {Sobel, Russell S. and Wagner, Gary A. and Calcagno, Peter T.},
+  journal = {Small Business Economics},
+  year    = {2026},
+  doi     = {10.1007/s11187-026-01240-5}
+}
+```

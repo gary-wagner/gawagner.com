@@ -1,0 +1,37 @@
+---
+title: "Takings for Economic Development: An Empirical Analysis of Eminent Domain Exercises in New York City"
+author:
+  - Ronit Levine-Schnur
+  - Gary A. Wagner
+date: 2026-09-01
+subtitle: "Journal of Empirical Legal Studies, Forthcoming"
+description: "Across nearly three decades of property takings in New York City, we find little evidence that eminent domain boosts nearby jobs, businesses, or property values, and where effects show up they are more often negative than positive."
+---
+
+[Ungated PDF](eminent_domain.pdf){.btn .btn-outline-primary .btn-sm}
+
+## Plain English Summary
+
+When a city uses eminent domain to take private property for a development project, the usual justification is that the project will spill over into the surrounding neighborhood: more jobs, more businesses, higher property values. The Supreme Court leaned on exactly this reasoning in *Kelo v. City of New London* (2005). Yet there is surprisingly little evidence on whether those benefits materialize where the takings actually happen. Past studies look at whole states, which is far too coarse to see effects on a single block.
+
+We study every taking in New York City from 1991 to 2019: 197 projects covering 3,359 lots. We link each taken lot to detailed data on nearby employment, business counts, assessed land and building values, and building permits. For each area around a project, we build a "synthetic" version from a weighted blend of similar city lots that were never near a taking, which shows what would likely have happened without it. Because spillovers could reach beyond the project site, we test several definitions of the affected area, out to 200 meters, and several comparison groups, for a total of 160 estimates.
+
+**What we found:**
+
+- **Most estimates point the wrong way.** 111 of the 160 estimates (69.3%) are negative, meaning outcomes near takings fell relative to what we would otherwise expect.
+- **The only consistent gains are in permits.** All 17 statistically significant positive effects are for building permits, which record approval to build, not actual construction. Even the largest implies only about 0.055 additional permits per year.
+- **Losses are clearer than gains.** There are 33 statistically significant negative effects, spread across jobs, businesses, and property values. Near takings for traditional public uses such as schools and parks, assessed building values fall in all 16 specifications.
+
+Our evidence comes from one city, so it should be read with appropriate caution. But it offers little support for the spillover-benefit rationale that courts and local officials rely on to justify taking property for economic development.
+
+## Citation
+
+```bibtex
+@article{levineschnur2026takings,
+  title   = {Takings for Economic Development: An Empirical Analysis of Eminent Domain Exercises in {New York City}},
+  author  = {Levine-Schnur, Ronit and Wagner, Gary A.},
+  journal = {Journal of Empirical Legal Studies},
+  year    = {2026},
+  note    = {Forthcoming}
+}
+```

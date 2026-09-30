@@ -1,0 +1,41 @@
+---
+title: "Government Contracting, Labor Intensity, and the Local Effects of Fiscal Consolidation: Evidence from the Budget Control Act of 2011"
+author:
+  - Timothy M. Komarek
+  - Kyle Butts
+  - Gary A. Wagner
+date: 2022-10-01
+subtitle: "Journal of Urban Economics, 2022"
+description: "When federal contract spending falls, local economies lose jobs faster than they gain them when spending rises — and cuts to labor-intensive industries hit hardest."
+---
+
+[Journal version](https://doi.org/10.1016/j.jue.2022.103506){.btn .btn-outline-primary .btn-sm}
+[Ungated PDF](bca.pdf){.btn .btn-outline-primary .btn-sm}
+[Replication files](https://www.dropbox.com/s/xb4pdlc4zlq0ny7/YJUEC-D-20-00284-replication.zip?dl=0){.btn .btn-outline-primary .btn-sm}
+
+## Plain English Summary
+
+The federal government spends roughly $500 billion a year buying goods and services from private companies — everything from landscaping to fighter jets. A large literature asks how much a local economy gains when that spending goes up. We ask the reverse: what happens to local jobs and paychecks when it goes down?
+
+The 2011 Budget Control Act gave us a rare test. It imposed spending caps and, in 2013, the first across-the-board "sequester" in U.S. history. Each federal agency decided for itself which purchases to cut, so the cuts fell on different industries for reasons unrelated to how any particular city was doing. Because cities buy from the government in very different industry mixes, some metro areas were hit much harder than others. We tracked every federal contract across 382 metro areas to measure the fallout.
+
+**What we found:**
+
+- **Cuts cost jobs quickly.** Every $1 million in lost contract spending eliminated about 10.5 local jobs — roughly one job per $95,000. Studies of spending *increases* find it takes $120,000–$250,000 to create a job. Cuts destroy jobs faster than spending creates them.
+- **Paychecks barely moved.** Each $1 of lost spending reduced local wages by only about 19 cents, compared with roughly 32 cents gained per dollar of new spending. Firms responded to cuts by laying people off, not by cutting pay.
+- **What the government buys matters.** A $1 million cut to labor-intensive industries such as professional services, health care, and repair eliminated about 15 jobs. The same cut to capital-intensive industries such as petroleum or chemicals eliminated about 1.5.
+
+For the typical metro area, the cuts translated into a loss of about 0.7% of employment, and 45 metros lost 2% or more. The broader lesson for policymakers is that a dollar of federal spending is not interchangeable across places: how exposed a local economy is depends on *what* its firms sell to the government, not just how much.
+
+## Citation
+
+```bibtex
+@article{komarek2022government,
+  title   = {Government Contracting, Labor Intensity, and the Local Effects of Fiscal Consolidation: Evidence from the {Budget Control Act} of 2011},
+  author  = {Komarek, Timothy M. and Butts, Kyle and Wagner, Gary A.},
+  journal = {Journal of Urban Economics},
+  volume  = {132},
+  year    = {2022},
+  doi     = {10.1016/j.jue.2022.103506}
+}
+```

@@ -1,0 +1,40 @@
+---
+title: "Do Cultural Districts Spur Urban Revitalization: Evidence from Louisiana"
+author:
+  - Javier E. Portillo
+  - Gary A. Wagner
+date: 2021-08-01
+subtitle: "Journal of Economic Behavior & Organization, 2021"
+description: "Homes inside Louisiana's state-certified cultural districts sell for about 7% more after certification than similar homes just outside the district lines."
+---
+
+[Journal version](https://doi.org/10.1016/j.jebo.2021.05.039){.btn .btn-outline-primary .btn-sm}
+[Ungated PDF](culturaldistricts.pdf){.btn .btn-outline-primary .btn-sm}
+
+## Plain English Summary
+
+Over the past two decades, cultural districts have become a popular tool for reviving struggling neighborhoods. A state certifies an area built around existing arts and cultural assets, and the district gets tax breaks and other support meant to attract artists, visitors, and investment. As of 2019, 17 states had created more than 340 of these districts, yet there was almost no hard evidence on whether they work. We ask a simple question: do people value living in a cultural district enough to pay more for a home there?
+
+We study the seven cultural districts in Lafayette Parish, Louisiana, a region that places an unusually high value on its Cajun and Creole culture. Using real estate listing data covering home sales from December 2002 through February 2021, we compare how sale prices changed for homes inside each district after it was certified with how prices changed for similar homes sold just outside its boundaries. Because the districts were certified at different times, each district gets its own before-and-after comparison.
+
+**What we found:**
+
+- **Certification raised home values.** Across 11,439 home sales, including 1,185 inside a district, homes in cultural districts sold for between 6.5% and 7.9% more after certification, with a typical estimate of about 7%.
+- **The value gap narrowed only slightly.** District homes sold for an average of $115,200, compared with $203,400 for nearby homes, so even after the bump they still sold for much less than their neighbors.
+- **Certification brought new money for culture.** Grants from the National Endowment for the Arts to organizations in the Downtown Lafayette district rose from about $12,000 a year before certification to more than $28,000 a year in the five years after.
+
+The broader lesson is that place-based policies can help revitalize a neighborhood when they are built around amenities that residents genuinely value. Whether the same results hold in places that care less about culture, or in states that offer no tax incentives, remains an open question.
+
+## Citation
+
+```bibtex
+@article{portillo2021cultural,
+  title   = {Do Cultural Districts Spur Urban Revitalization: Evidence from {Louisiana}},
+  author  = {Portillo, Javier E. and Wagner, Gary A.},
+  journal = {Journal of Economic Behavior \& Organization},
+  volume  = {188},
+  pages   = {651--673},
+  year    = {2021},
+  doi     = {10.1016/j.jebo.2021.05.039}
+}
+```

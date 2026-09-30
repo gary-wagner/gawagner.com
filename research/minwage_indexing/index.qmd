@@ -1,0 +1,42 @@
+---
+title: "Employment Effects of Minimum Wage Indexing: Establishment Evidence from Oregon Restaurants"
+author:
+  - Stephen Miller
+  - Gary A. Wagner
+  - Alicia Plemmons
+date: 2025-07-01
+subtitle: "Economic Inquiry, 2025"
+description: "After Oregon tied its minimum wage to inflation in 2003, employment at its restaurants fell about 3.6% relative to similar restaurants in states where the minimum wage stayed put."
+---
+
+[Journal version](https://doi.org/10.1111/ecin.13284){.btn .btn-outline-primary .btn-sm}
+[Ungated PDF](minwage_indexing.pdf){.btn .btn-outline-primary .btn-sm}
+
+## Plain English Summary
+
+Eighteen states will index their minimum wage to inflation by 2025, so that it rises automatically each year with the cost of living. Unlike a one-time increase, indexing means employers face a wage floor that keeps climbing. Yet few studies have measured what indexing on its own does to jobs, in part because most states adopted it recently, amid a pandemic, rising interest rates, and other shocks that make the effects hard to isolate. We study Oregon, which became the second state to index its minimum wage in 2003, in the middle of a calm stretch from 2000 to 2007 when most other states left their wage floors unchanged. By 2007, Oregon's minimum wage had risen 20%, from $6.50 to $7.80.
+
+Rather than comparing Oregon with its neighbors, we pair each Oregon restaurant with look-alike restaurants elsewhere in the country: the same type of restaurant, in neighborhoods with similar incomes and growth, in the 21 states where the minimum wage did not change. We leave out counties along state borders, where workers and diners can easily cross state lines, and we check our results against two separate national databases of business establishments.
+
+**What we found:**
+
+- **Restaurant employment fell.** After indexing, employment at Oregon restaurants fell about 3.6% relative to their matched counterparts. Across our twelve main comparisons, the decline ranged from 3.1% to 4.5%.
+- **The job losses add up.** Oregon's roughly 3,600 restaurants outside border counties averaged 16 employees before the change. A 20% wage increase combined with our estimate implies more than 2,000 lost jobs, or an employment elasticity of about -0.18.
+- **The effect is more modest than prior estimates.** The results hold when we change how restaurants are matched or drop the smallest establishments, and our estimate is about 60% smaller than the closest previous study of indexing.
+
+The takeaway for policymakers is that automatic inflation adjustments are not free of employment costs. Our estimates offer a benchmark for what indexing does when the alternative is simply keeping the current minimum wage, which is the choice many states now face.
+
+## Citation
+
+```bibtex
+@article{miller2025employment,
+  title   = {Employment Effects of Minimum Wage Indexing: Establishment Evidence from {Oregon} Restaurants},
+  author  = {Miller, Stephen and Wagner, Gary A. and Plemmons, Alicia},
+  journal = {Economic Inquiry},
+  volume  = {63},
+  number  = {3},
+  pages   = {681--714},
+  year    = {2025},
+  doi     = {10.1111/ecin.13284}
+}
+```

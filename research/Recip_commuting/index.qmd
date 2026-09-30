@@ -1,0 +1,41 @@
+---
+title: "Does State Tax Reciprocity Affect Interstate Commuting? Evidence from a Natural Experiment"
+author:
+  - Gary A. Wagner
+  - Jonathan C. Rork
+date: 2023-09-01
+subtitle: "Regional Science and Urban Economics, 2023"
+description: "When Minnesota and Wisconsin ended their income tax reciprocity agreement, the number of Wisconsin residents commuting to jobs in Minnesota fell by 3 to 5%."
+---
+
+[Journal version](https://doi.org/10.1016/j.regsciurbeco.2023.103923){.btn .btn-outline-primary .btn-sm}
+[Ungated PDF](Recip_commuting.pdf){.btn .btn-outline-primary .btn-sm}
+[Replication files](https://www.dropbox.com/s/wxolunhmsd7ccui/RSUE-D-22-00157-replication.zip?dl=0){.btn .btn-outline-primary .btn-sm}
+
+## Plain English Summary
+
+Most states tax wages where the work is done, not where the worker lives. That can leave people who cross a state line for work filing two tax returns and, sometimes, paying more. To avoid this, 15 states have signed reciprocity agreements that let commuters pay income tax only to their home state. We ask whether these agreements actually shape where people are willing to work.
+
+Because most reciprocity agreements were signed in the 1970s and never changed, that question is hard to answer. Minnesota and Wisconsin gave us an exception. After years of disputes over late payments between the two states, Minnesota ended their agreement in 2010. Overnight, cross-border commuters faced more paperwork, and some faced higher tax bills. About three-quarters of the two states' 58,000 interstate commuters live in Wisconsin and work in Minnesota. We compared how the number of these commuters changed after 2010 with carefully matched groups of similar workers who were unaffected: people who live and work in the same state, and commuters in other metro areas that straddle state lines, such as Chicago, Cincinnati, Philadelphia, and St. Louis.
+
+**What we found:**
+
+- **Fewer Wisconsinites crossed the border for work.** The number of commuters from Wisconsin border areas into Minnesota fell by 3 to 5%, and the drop was permanent. In St. Croix County alone, home to about 18,000 interstate commuters, a 3% decline equals roughly 540 people.
+- **Middle earners and younger workers responded most.** The largest declines were among commuters earning between $1,250 and $3,333 per month, the group facing the biggest gap in tax rates between the two states, and among workers 29 and younger.
+- **Minnesotans barely changed course.** For Minnesota residents working in Wisconsin, six of our eight comparisons showed no change at all, consistent with differences in the two states' tax rates and in who makes the trip.
+
+The broader lesson is that state tax rules reach beyond state borders. Reciprocity agreements are usually seen as a technical fix for double taxation, but they also help keep regional labor markets connected. Undoing one nudges workers away from jobs across the state line.
+
+## Citation
+
+```bibtex
+@article{wagner2023does,
+  title   = {Does State Tax Reciprocity Affect Interstate Commuting? {Evidence} from a Natural Experiment},
+  author  = {Wagner, Gary A. and Rork, Jonathan C.},
+  journal = {Regional Science and Urban Economics},
+  volume  = {102},
+  pages   = {103923},
+  year    = {2023},
+  doi     = {10.1016/j.regsciurbeco.2023.103923}
+}
+```

@@ -1,0 +1,7 @@
+include-in-header:
+  text: |
+    <style>
+    #title-block-header [class*="quarto-title-meta"],
+    #title-block-header .description { display: none !important; }
+    #title-block-header { margin-bottom: 0.5rem; }
+    </style>

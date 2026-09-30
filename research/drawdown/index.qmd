@@ -1,0 +1,41 @@
+---
+title: "Local Fiscal Adjustments from Depopulation: Evidence from the Post–Cold War Defense Contraction"
+author:
+  - Timothy M. Komarek
+  - Gary A. Wagner
+date: 2021-03-01
+subtitle: "National Tax Journal, 2021"
+description: "When the end of the Cold War shrank military towns, local governments held overall budgets steady by raising property taxes, cutting school construction, and borrowing more."
+---
+
+[Journal version](https://doi.org/10.1086/712917){.btn .btn-outline-primary .btn-sm}
+[Ungated PDF](drawdown.pdf){.btn .btn-outline-primary .btn-sm}
+
+## Plain English Summary
+
+Local governments run the schools, police and fire departments, and sanitation services that residents rely on every day. We know a fair amount about how they cope with short-term shocks like recessions. We know much less about what they do when a place loses people for good. Do they raise taxes to keep services intact, let budgets shrink along with the population, or push costs onto the future by borrowing?
+
+The end of the Cold War gave us a way to find out. Between the late 1980s and 2000, 148 military bases closed and the number of U.S. military personnel fell by nearly 40%. Those cuts were driven by national budgets and world events, not by conditions in any particular town, so they hit some places much harder than others for reasons unrelated to local finances. We followed 205 commuting zones that lost military personnel, compared each with a tailored group of similar places that had no base, and tracked local government revenue, spending, and debt from 1987 to 2000.
+
+**What we found:**
+
+- **Overall budgets held steady, but the tax mix shifted.** Total revenue and spending per resident did not change. Instead, state aid for education fell by about $39 per resident for each one-point drop in the military's share of the local population, and localities made up the difference with property taxes, which rose 4.7%.
+- **Capital projects took the hit.** Spending on buildings and infrastructure fell $26 per resident (11%), and about half of that cut came from school construction and equipment, which fell 15%. Day-to-day operating budgets were protected.
+- **Debt went up.** Long-term debt rose about $170 per resident (8%), almost all of it revenue bonds for utilities and economic development projects rather than debt backed by general taxes. Interest payments rose 8%.
+
+The takeaway for policymakers is that a shrinking town's balanced budget can hide real costs. By raising property taxes on a falling housing market, deferring school investment, and taking on debt, local governments kept services running today at the risk of making the region less competitive tomorrow.
+
+## Citation
+
+```bibtex
+@article{komarek2021local,
+  title   = {Local Fiscal Adjustments from Depopulation: Evidence from the Post--{Cold War} Defense Contraction},
+  author  = {Komarek, Timothy M. and Wagner, Gary A.},
+  journal = {National Tax Journal},
+  volume  = {74},
+  number  = {1},
+  pages   = {9--43},
+  year    = {2021},
+  doi     = {10.1086/712917}
+}
+```

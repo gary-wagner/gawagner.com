@@ -1,0 +1,41 @@
+---
+title: "How Does Municipal Governance Structure Affect Innovation and Knowledge Diffusion? Evidence from U.S. Metro Areas"
+author:
+  - Gary A. Wagner
+  - Timothy M. Komarek
+date: 2023-09-01
+subtitle: "Economics of Governance, 2023"
+description: "Metro areas with more school districts and special-purpose governments are no less innovative overall, but their innovation is concentrated among fewer inventors and technologies."
+---
+
+[Journal version](https://doi.org/10.1007/s10101-022-00286-x){.btn .btn-outline-primary .btn-sm}
+[Ungated PDF](mung.pdf){.btn .btn-outline-primary .btn-sm}
+
+## Plain English Summary
+
+Some metro areas are governed by a handful of cities and counties; others are a patchwork of hundreds of towns, school districts, and special districts for water, fire protection, housing, and more. Over our sample period, the number of special-district governments grew by more than 5,100, or 16%. We ask whether this patchwork affects a region's ability to innovate. That matters because regions with broad, diverse innovation tend to recover faster from shocks like the 2008 financial crisis or a major hurricane, and with state and federal aid to local governments shrinking, regions increasingly have to rely on themselves.
+
+We link Census of Governments data to detailed patent records for 365 metro areas. We measure not just how many patents each region produces but how widely spread they are: across many inventors and technologies, or concentrated in a few. Because innovative regions might also organize their governments differently, we use each region's government structure from 20 years earlier and the religious diversity of its congregations in 1952 to separate cause from coincidence.
+
+**What we found:**
+
+- **Number of towns and counties does not matter.** Having more general-purpose governments per resident has no measurable effect on how much a region innovates or how widely innovation is spread.
+- **More special-purpose governments, more concentrated innovation.** A one standard deviation increase in special-purpose governments per resident explains roughly 20% of a typical difference in how concentrated invention is across inventors, and a similar share for concentration across technologies.
+- **School districts drive the result.** The effect comes mainly from the number of school districts per 100,000 residents rather than from other special districts.
+
+Earlier research links more special-purpose governments to slower growth in population, jobs, and home prices. Our results add another cost: regions with more of these units have less inclusive innovation, which may leave them more exposed to the loss of a key employer or a shock to a single industry.
+
+## Citation
+
+```bibtex
+@article{wagner2023municipal,
+  title   = {How Does Municipal Governance Structure Affect Innovation and Knowledge Diffusion? {Evidence} from {U.S.} Metro Areas},
+  author  = {Wagner, Gary A. and Komarek, Timothy M.},
+  journal = {Economics of Governance},
+  volume  = {24},
+  number  = {3},
+  pages   = {287--330},
+  year    = {2023},
+  doi     = {10.1007/s10101-022-00286-x}
+}
+```

@@ -1,0 +1,42 @@
+---
+title: "Relationship Lobbying through Repeated Contributions: A Humanomics Approach"
+author:
+  - David Mitchell
+  - Todd Nesbit
+  - Gary A. Wagner
+date: 2025-03-01
+subtitle: "Public Choice, 2025"
+description: "When state term limits pushed long-serving legislators out and shifted power toward governors, the share of campaign money that statewide executive candidates got from repeat donors rose by about a third, a sign that political influence is built through lasting relationships."
+---
+
+[Journal version](https://doi.org/10.1007/s11127-024-01231-8){.btn .btn-outline-primary .btn-sm}
+[Ungated PDF](public_choice.pdf){.btn .btn-outline-primary .btn-sm}
+
+## Plain English Summary
+
+Decades of research have not settled whether money in politics actually buys influence. Most studies treat a campaign donation as a one-time purchase. Drawing on the ideas of Adam Smith, Vernon Smith, and Deirdre McCloskey, we take a more human view: influence usually comes from a relationship between a donor and an official that is built up over years of repeated contact. If that is true, donors should give again and again to the officials who hold, or are likely to hold, real power.
+
+To test this, we use state legislative term limits. When long-serving lawmakers are forced out, the legislature loses its most experienced and connected members, and power tilts toward the governor. Relationships with individual legislators also become shorter-lived. Using records of every individual campaign contribution in the states from 2000 to 2015, we track how much money candidates for governor, lieutenant governor, attorney general, and secretary of state receive from people who have given before. We compare five states where term limits took effect during this period (Louisiana, Missouri, Nebraska, Nevada, and Oklahoma) with 35 states that never adopted them.
+
+**What we found:**
+
+- **Repeat donors supply more of the money.** Once term limits took effect, the share of dollars going to statewide executive candidates from repeat donors rose by 11.0 to 11.6 percentage points relative to states without term limits.
+- **That is roughly a one-third increase.** Repeat donors normally provide about one-third of these candidates' dollars, so the shift means their contributions grew by about 33%.
+- **The money deepens rather than spreads.** The share of donors who were repeat givers rose by about 5 to 7 percentage points, but that change was too imprecise to rule out no effect. Existing relationships got more of the money, rather than many new donors becoming regulars.
+
+The takeaway is that political giving looks less like a one-off transaction and more like an ongoing investment in relationships, and donors redirect that investment when the balance of power between branches of government changes.
+
+## Citation
+
+```bibtex
+@article{mitchell2025relationship,
+  title   = {Relationship Lobbying through Repeated Contributions: A Humanomics Approach},
+  author  = {Mitchell, David and Nesbit, Todd and Wagner, Gary A.},
+  journal = {Public Choice},
+  volume  = {202},
+  number  = {3},
+  pages   = {557--576},
+  year    = {2025},
+  doi     = {10.1007/s11127-024-01231-8}
+}
+```

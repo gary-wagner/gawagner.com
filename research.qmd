@@ -1,0 +1,9 @@
+---
+title: "Recent Research"
+aliases:
+  - /publications
+listing:
+  contents: research/*/index.qmd
+  template: research.ejs
+  sort: "date desc"
+---
