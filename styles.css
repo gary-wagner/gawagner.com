@@ -98,3 +98,55 @@ a:hover {
   object-position: center 20%;
   border-radius: 50%;
 }
+
+/* research page panels */
+.paper-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px;
+}
+
+@media (max-width: 700px) {
+  .paper-grid { grid-template-columns: 1fr; }
+}
+
+.paper-card {
+  background-color: #e4e7e6;
+  border-radius: 6px;
+  padding: 24px 26px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.paper-venue {
+  font-style: italic;
+  font-size: 16px;
+  color: #3b4c68;
+}
+
+.paper-card h3 {
+  margin: 0;
+  font-size: 1.35rem;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.paper-card h3 a {
+  text-decoration: none;
+}
+
+.paper-card h3 a:hover {
+  text-decoration: underline;
+}
+
+.paper-authors {
+  font-size: 17px;
+  color: #3b4c68;
+}
+
+.paper-card p {
+  margin: 0;
+  font-size: 18px;
+  line-height: 1.5;
+}
