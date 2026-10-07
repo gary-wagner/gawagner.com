@@ -120,9 +120,9 @@ a:hover {
 }
 
 .paper-venue {
-  font-style: italic;
-  font-size: 16px;
-  color: #3b4c68;
+  font-weight: 600;
+  font-size: 18px;
+  color: #1f2f4a;
 }
 
 .paper-card h3 {
