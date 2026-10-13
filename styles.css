@@ -150,3 +150,33 @@ a:hover {
   font-size: 18px;
   line-height: 1.5;
 }
+
+/* home page on phones */
+@media (max-width: 700px) {
+  .columns {
+    display: block;
+  }
+
+  .columns .column {
+    width: 100% !important;
+  }
+
+  .columns .column:first-child {
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+
+  .columns .column:first-child img {
+    width: 180px;
+    height: 180px;
+  }
+
+  .name {
+    font-size: 2.4rem;
+  }
+
+  .facts {
+    grid-template-columns: 1fr;
+    gap: 18px;
+  }
+}
