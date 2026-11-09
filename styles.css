@@ -180,3 +180,9 @@ a:hover {
     gap: 18px;
   }
 }
+
+.contact-line {
+  border-top: 1px solid;
+  padding-top: 0.9rem;
+  margin-top: 1.5rem;
+}
